@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aparna Suresh</h1>
-<h3 align="center">We all start as noob, but the journey differs for all. Ok, coming to the point I'm here to create</h3>
+<h3 align="center">We all start as a newbie, but the journey differs for all. Ok, coming to the point I'm here to create</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
