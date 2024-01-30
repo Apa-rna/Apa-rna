@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently immersed in advancing my skills in software development, particularly focusing on web development using HTML, CSS, and JavaScript, alongside exploring the realms of machine learning.<br><br>I'm actively seeking collaborations on projects that allow me to apply my technical proficiency and contribute to innovative solutions.<br><br>I'm looking for assistance in further enhancing my understanding of cloud computing and agile methodologies to streamline project execution.<br><br><br>Fun Fact: I'm also a proficient stock market trader, finding excitement in analyzing market trends and making informed decisions.
+I'm currently immersed in advancing my skills in software development, particularly focusing on web development using HTML, CSS, and JavaScript, alongside exploring the realms of machine learning and Generative AI.<br><br>I'm actively seeking collaborations on projects that allow me to apply my technical proficiency and contribute to innovative solutions.<br><br>I'm looking for assistance in further enhancing my understanding of cloud computing and agile methodologies to streamline project execution.<br><br><br>Fun Fact: I'm also a proficient stock market trader, finding excitement in analyzing market trends and making informed decisions.
 
 
 ## 🌐 Socials:
